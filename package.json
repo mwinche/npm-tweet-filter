@@ -1,10 +1,14 @@
 {
-  "name": "mwinche-tweet-filter",
+  "name": "npm-tweet-filter",
   "version": "1.0.0",
-  "description": "filters tweets to makesure they match the n p m acronym",
+  "description": "Filters tweets to make sure they match the n p m acronym",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mwinche/npm-tweet-filter.git"
   },
   "keywords": [
     "mwinche",
